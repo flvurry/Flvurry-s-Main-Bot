@@ -6,4 +6,4 @@ bot.on("ready", async () => {
     bot.user.setActivity("flvurry is cool", {type: "Playing"});
 });
 
-bot.login(process.env.BOT_TOKEN;
+bot.login(process.env.BOT_TOKEN);
